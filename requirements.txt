@@ -1,0 +1,17 @@
+discord.py
+
+youtube_dl
+
+requests
+
+psutil
+
+PyNaCl
+
+ffmpeg
+
+
+ROLES:
+- Countdown Master
+- Admin
+- Captain

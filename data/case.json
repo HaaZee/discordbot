@@ -1,0 +1,44 @@
+{
+    "caseid": {
+        "author": "placeholder",
+        "message": "placeholder",
+        "reply_sent": "False",
+        "helped": "False"
+    },
+    "0001": {
+        "author": "234319310670004224",
+        "message": "Help",
+        "reply_sent": "True",
+        "helped": "True"
+    },
+    "0002": {
+        "author": "234319310670004224",
+        "message": "Test",
+        "message_sent": "True",
+        "helped": "True"
+    },
+    "0003": {
+        "author": "234319310670004224",
+        "message": "ews",
+        "message_sent": "False",
+        "helped": "True"
+    },
+    "0004": {
+        "author": "289006054128484352",
+        "message": "test",
+        "message_sent": "True",
+        "helped": "False"
+    },
+    "0005": {
+        "author": "276641144128012289",
+        "message": "Hey big man",
+        "message_sent": "True",
+        "helped": "True"
+    },
+    "0006": {
+        "author": "234319310670004224",
+        "message": "I need help with my role",
+        "message_sent": "True",
+        "helped": "True"
+    }
+}

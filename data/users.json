@@ -1,0 +1,34 @@
+{
+    "234319310670004224": {
+        "experience": 11818.0,
+        "level": 10,
+        "xp_to_next": 2827.0,
+        "xp_boost": 2,
+        "coin_boost": 1.5,
+        "coins": 7636,
+        "daily_time": 1549065518.712743,
+        "auto_daily": 1,
+        "mine_time": 0,
+        "upgrade_cost": 4000,
+        "mine_level": 3,
+        "crates_owned": {
+            "simple": 4
+        }
+    },
+    "276641144128012289": {
+        "experience": 5870.0,
+        "level": 8,
+        "xp_to_next": 695.0,
+        "xp_boost": 2,
+        "coin_boost": 1.5,
+        "coins": 38,
+        "daily_time": 1549051663.940109,
+        "auto_daily": 1,
+        "mine_time": 1548608625.87273,
+        "upgrade_cost": 2000,
+        "mine_level": 2,
+        "crates_owned": {
+            "simple": 4
+        }
+    }
+}
